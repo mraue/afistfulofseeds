@@ -50,9 +50,13 @@ O=empty plot
 
 The player who most recently visited a farm starts the game.
 
-The game is played in three seasons (spring/summer/autumn). Each season consist of a planting and a harvesting phase.
+### Seasons
 
-### Planting (Filling the board)
+The game is played in three seasons (spring/summer/autumn).
+
+Each season consist of a planting and a harvesting phase:
+
+#### Planting (Filling the board)
 
 Planting plays in several rounds. Each rounds consists of:
 
@@ -68,13 +72,13 @@ This concludes a round. The next round is started by the next player to the left
 
 The planting phase ends when there are no free plots left on the board.
 
-### Harvesting (Counting Points)
+#### Harvesting (Counting Points)
 
 Now it is time to count the points. Each player receives points for the produce indicated by their produce card.
 
 There are four different produce:
 
-#### Wheat (Fields)
+##### Wheat (Fields)
 
 - For each wheat on the board the player receives 1 point
 - For each wheat on an adjacent plot to a wheat the player received on point (diagonal do not count)
@@ -83,7 +87,7 @@ There are four different produce:
 Example: W = 1 point, WW = 4 points, WWW = 7 points
 ```
 
-#### Apples (Trees)
+##### Apples (Trees)
 
 For each non-apple on a plot adjacent to an apple the player receives one point (diagonal do not count).
 
@@ -92,7 +96,7 @@ Example:    WW                      AW
            CAA  = 3 points          PA = 4 points 
 ```
 
-#### Carrots (Lines)
+##### Carrots (Lines)
 
 For carrots planted in a line (that is two or more) the player receives (line length) x 2 points. Diagonals count!
 
@@ -101,7 +105,7 @@ Example: CC = 4 points  CCC = 6 points  CC              C = 0 points
                                         CW = 12 points
 ```
 
-#### Potatoes (Multiples)
+##### Potatoes (Multiples)
 
 The player receives 1 point for each plant in an adjacent plot which occurs more than once
 
@@ -110,10 +114,9 @@ Example: WPA = 0 points, WPW = 2 points, PPP = 2 points    WPW = 3 points
                                                             W
 ```
 
-
 The player(s) with the most points wins the season and receives three sack markers. The player(s) with the second most points receives two, the player with the third most points one sack marker.
 
 ### Winning
 
-The player with the most sack marker after three seasons wins the game.
+The player with the most sack markers after three seasons wins the game.
 
