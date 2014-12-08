@@ -32,7 +32,7 @@ O=empty plot
 
 ### Cards
 
-24 Seed card: 8 Carrots / 8 Wheat / 8 Apple / 8 Potatoe
+24 Seed card: 6 Carrots / 6 Wheat / 6 Apple / 6 Potatoe
 
 4 Produce cards: 1 Carrot / 1 Wheat / 1 Apple / 1 Potatoe    
 
