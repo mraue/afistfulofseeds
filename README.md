@@ -55,7 +55,7 @@ Or on dropox:
 ### Setup
 
 - Shuffle the 24 seed cards
-- Deal face down 8 seed cards to each player (hand)
+- Deal face down 6 seed cards to each player (hand)
 - Shuffle the 4 produce cards
 - Deal one produce card to each player
 - Each player picks up her hand and her produce card
