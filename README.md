@@ -50,7 +50,7 @@ Or on dropox:
 * [Rules as html](https://www.dropbox.com/s/h4f1n5ag8utqhf7/A%20Fistful%20Of%20Seeds%20-%20Rules.html?dl=0)
 * [Assets as pdf](https://www.dropbox.com/s/vsldsaladxm1agx/AFistfullOfSeeds.pdf?dl=0)
 
-## Gameplay
+## Rules
 
 ### Setup
 
@@ -132,3 +132,10 @@ The player(s) with the most points wins the season and receives three sack marke
 
 The player with the most sack markers after three seasons wins the game.
 
+## Alternative Rules
+
+### 3 Player Game
+
+#### (1) Randomized Start
+
+For a three player game deal 8 seed cards to each player at the beginning of each season and *don't* distribute the produce card until the beginning of the 3rd round (i.e. the first two rounds are played without knowing your own winning condition).
