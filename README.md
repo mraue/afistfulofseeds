@@ -38,6 +38,13 @@ O=empty plot
 
 ~20 Sack cards
 
+### Assets
+
+Art by [Demezou](http://www.moeemailbox.wix.com/demezouillustration).
+
+* [Assets as PDF (1.9 MB / midres)](assets/AFistfullOfSeeds.pdf)
+* [Highres asset images (4.5 MB)](assets/assets.zip)
+
 ## Gameplay
 
 ### Setup
