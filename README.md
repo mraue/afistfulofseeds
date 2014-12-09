@@ -1,4 +1,4 @@
-# A Fistfull of Seeds
+# A Fistful of Seeds
 
 ##### by Thibaut Devigne and Martin Raue
 
