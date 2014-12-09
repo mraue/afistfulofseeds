@@ -45,6 +45,11 @@ Art by [Demezou](http://www.moeemailbox.wix.com/demezouillustration).
 * [Assets as PDF (1.9 MB / midres)](assets/AFistfullOfSeeds.pdf)
 * [Highres asset images (4.5 MB)](assets/assets.zip)
 
+Or on dropox:
+
+* [Rules as html](https://www.dropbox.com/s/h4f1n5ag8utqhf7/A%20Fistful%20Of%20Seeds%20-%20Rules.html?dl=0)
+* [Assets as pdf](https://www.dropbox.com/s/vsldsaladxm1agx/AFistfullOfSeeds.pdf?dl=0)
+
 ## Gameplay
 
 ### Setup
