@@ -49,6 +49,7 @@ Or on dropox:
 
 * [Rules as html](https://www.dropbox.com/s/h4f1n5ag8utqhf7/A%20Fistful%20Of%20Seeds%20-%20Rules.html?dl=0)
 * [Assets as pdf](https://www.dropbox.com/s/vsldsaladxm1agx/AFistfullOfSeeds.pdf?dl=0)
+* [High resolution assets in a compressed archive](https://www.dropbox.com/s/7rgmg0tm90yck2l/A_Fistful_Of_Seeds.7z?dl=0)
 
 ## Rules
 
