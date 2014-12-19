@@ -1,4 +1,4 @@
-![Image of the game board](https://github.com/mraue/afistfulofseeds/blob/master/graphics/fistfulofseed_board_setup.jpg)
+![Image of the game board](https://github.com/mraue/afistfulofseeds/blob/master/graphics/fistfulofseed_board_setup_small.jpg)
 
 # A Fistful of Seeds
 
