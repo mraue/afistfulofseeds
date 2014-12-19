@@ -1,3 +1,5 @@
+![Image of the game board](https://github.com/mraue/afistfulofseeds/blob/master/graphics/fistfulofseed_board_setup.jpg)
+
 # A Fistful of Seeds
 
 ##### by Thibaut Devigne and Martin Raue
